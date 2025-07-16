@@ -7,7 +7,7 @@ This computational package implements RONS with examples from the following pape
 
 
 # License
-You may these codes as long as the above papers are appropriately cited.
+You may use these codes as long as the above papers are appropriately cited.
 
 # SRONS (RONS with symbolic computing)
 To use the SRONS package, the user only needs to change: 
